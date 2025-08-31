@@ -19,10 +19,9 @@ Run the program:
 java DailyGoalReminder
 
 Sample Output:
-===================================
- Welcome to Daily Goal Reminder App 
- Current Date & Time: 31-08-2025 20:30:15
-===================================
+Welcome to Daily Goal Reminder App 
+Current Date & Time: 31-08-2025 20:30:15
+
 
 ---- MENU ----
 1. Add a new goal
